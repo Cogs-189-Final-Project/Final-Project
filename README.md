@@ -7,3 +7,6 @@ Member:
 - Yunyi HuangA15813745, yuh022@ucsd.edu
 - Zixin Ma A15886070, zima@ucsd.edu
 - Luning Yang, A16158834, l4yang@ucsd.edu
+
+Data source:
+https://www.bbci.de/competition/iv/desc_1.html
